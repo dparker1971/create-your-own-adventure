@@ -3,6 +3,4 @@ and ask him to take you to the flaming tower. He agrees, but says it will cost y
 
 Do You:
 
-[Agree to pay?](./agree-to-pay/agree-to-pay.md)
-
 [Disagree to pay?](./disagree-to-pay/disagree-to-pay.md)
